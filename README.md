@@ -1,1 +1,3 @@
-# droplets-detector 
+# Detecting Droplets using Computer Vision
+
+## 
