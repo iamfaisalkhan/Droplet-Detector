@@ -1,0 +1,3 @@
+[submodule "pymba"]
+	path = pymba
+	url = https://github.com/morefigs/pymba.git
